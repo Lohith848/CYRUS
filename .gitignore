@@ -1,0 +1,7 @@
+models/
+logs/
+memory/
+__pycache__/
+*.log
+*.zip
+*.ico

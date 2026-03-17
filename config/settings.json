@@ -1,0 +1,35 @@
+{
+  "wake_word": "nova",
+  "ollama_model": "llama3",
+  "ollama_url": "http://localhost:11434",
+  "vosk_model_path": "C:/CYRUS/models/vosk-model-en-in-0.5",
+  "user_name": "sir",
+  "voice": {
+    "rate": 175,
+    "volume": 0.9,
+    "preferred_voice": "zira"
+  },
+  "gmail": {
+    "credentials_file": "C:/CYRUS/config/gmail_credentials.json",
+    "token_file": "C:/CYRUS/config/gmail_token.json"
+  },
+  "notion": {
+    "api_key": "YOUR_NOTION_API_KEY_HERE"
+  },
+  "telegram": {
+    "bot_token": "8466879045:AAH-fdoWmLvq8BUCH0qeSmW4j_ PMeNY30KY",
+    "default_chat_id": "7722428088",
+    "contacts": {
+      "bot": "8269865619",
+      "dinesh": "1137293055",
+      "mukesh": "1451900951"
+    }
+  },
+  "apps": {
+    "chrome": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "firefox": "C:/Program Files/Mozilla Firefox/firefox.exe",
+    "vscode": "code",
+    "notepad": "notepad.exe",
+    "calculator": "calc.exe"
+  }
+}
