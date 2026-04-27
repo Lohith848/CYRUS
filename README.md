@@ -167,4 +167,4 @@ Visit **[lohva.in](https://lohva.in)** to learn more about CYRUS.
 
 ---
 
-Built by [Lohith](https://github.com/Lohith848)
+Built by [Lohith G](https://github.com/Lohith848)
