@@ -16,15 +16,15 @@ CYRUS is a personal AI assistant that runs on your Windows laptop — like JARVI
 
 | Feature | Description |
 |---------|-------------|
-| 🎤 Voice Control | Say "Nova" to wake. Speak any command naturally |
-| 🧠 AI Brain | Powered by Ollama LLM — runs 100% offline |
-| 📱 Messaging | Send Telegram messages by voice |
-| 📧 Gmail | Read and send emails by voice |
-| ⚡ System Control | Open apps, volume, shutdown, sleep, lock |
-| 🌦️ Weather | Real-time weather for any city |
-| 🧾 Memory | Remember facts and recall them anytime |
-| 🔍 File Search | Find any file on your PC by name |
-| 📝 Notion | Create and search Notion pages by voice |
+|  Voice Control | Say "Nova" to wake. Speak any command naturally |
+|  AI Brain | Powered by Ollama LLM — runs 100% offline |
+|  Messaging | Send Telegram messages by voice |
+|  Gmail | Read and send emails by voice |
+|  System Control | Open apps, volume, shutdown, sleep, lock |
+|  Weather | Real-time weather for any city |
+|  Memory | Remember facts and recall them anytime |
+|  File Search | Find any file on your PC by name |
+|  Notion | Create and search Notion pages by voice |
 
 ---
 
