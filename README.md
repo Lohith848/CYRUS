@@ -2,8 +2,7 @@
 
 > Voice-controlled intelligence for your laptop. Say **"Nova"** to wake it up.
 
-**Website:** [lohva.in](https://lohva.in) &nbsp;·&nbsp; **Built by** [Lohith G](https://github.com/Lohith848)
-
+**Website:** [lohva.in](https://lohva.in) &nbsp;·&nbsp;
 ---
 
 ## What is CYRUS?
@@ -215,4 +214,4 @@ CYRUS is built **local-first**:
 
 ---
 
-> **CYRUS — Personal AI Assistant · Built for Windows**
+> **CYRUS — Personal AI Assistant · Built for Windows by Lohith.**
