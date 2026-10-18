@@ -5,7 +5,7 @@
 **Website:** [lohva.in](https://lohva.in) &nbsp;·&nbsp;
 ---
 
-## What is CYRUS?
+## What is CYRUS ?
 
 CYRUS is a personal AI assistant built for Windows — think JARVIS from Iron Man, running entirely on your machine. Wake it with a single word, speak any command naturally, and CYRUS handles the rest: launching apps, reading emails, messaging contacts, searching files, and answering anything — all hands free.
 
